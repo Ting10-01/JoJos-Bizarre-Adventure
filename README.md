@@ -6,5 +6,5 @@
 &emsp;&emsp;兩個關卡的畫面左上角會有一欄”Throw:“計算目前為止此關的投擲次數。第一關滿分10分，分數為10分減玩家投擲次數，如結果為負數則為零分。第二關滿分20分，分數為20分減玩家投擲次數，結果為負數則同為零分。<br>
 
 ### 如何使用
-1. 從Release中將 Windows.zip(for Windows) / MAC.app.zip(for macOS) 下載下來並解壓縮
-2. 點擊 Windows/Windows/JOJO.exe(for Windows) / 即可開啟
+1. 從Release中將 Windows.zip(for Windows)
+2. 點擊 Windows/Windows/JOJO.exe(for Windows)即可開啟
